@@ -13,6 +13,7 @@ Full stack developer in Lima. I build web apps, dashboards, and internal tools e
 | [PayRecon](https://github.com/Darenel/payrecon) — payment reconciliation with a deterministic matching engine | Go · Python · React · PostgreSQL · Redis | [open](https://darenel.dev/projects/payrecon/) |
 | [Inventory Sales](https://github.com/Darenel/inventory-sales) — inventory and sales with transactional stock control | NestJS · React · PostgreSQL · Prisma | [open](https://darenel.dev/projects/inventory-sales/) |
 | [Recruiting Pipeline](https://github.com/Darenel/recruiting-pipeline) — ATS with a Kanban board and candidate scoring | Spring Boot · React · PostgreSQL | [open](https://darenel.dev/projects/recruiting/) |
+| [Alarm App](https://github.com/Darenel/alarm-app) — Windows alarms with natural-language quick add, dismiss challenges and timers | Electron · React · SQLite | [open](https://darenel.dev/projects/alarm/) |
 | dlAdmin — Admin menu with soft anti-cheat for FiveM, running on 50+ servers | Lua · React · MySQL | [open](https://darenel.dev/projects/admin-menu/) |
 
 ## Socials & Portfolio
