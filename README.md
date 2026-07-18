@@ -1,4 +1,4 @@
-# Francisco Gonzalez — Darenel
+# Francis Gonzalez — Darenel
 
 ![Darenel](banner.png)
 
